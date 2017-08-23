@@ -1,2 +1,2 @@
-# justinjamesvo.github.io
-Main website
+# justinjamesvo
+Repository for Justin James VO main website
